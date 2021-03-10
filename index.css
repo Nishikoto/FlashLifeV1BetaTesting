@@ -1,0 +1,56 @@
+/*
+FlashLife [FR-V2]
+-----------------
+
+CSS créer par Nishikoto__
+Site web créer par Nishikoto__
+*/
+
+.description
+{
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 1.05em;
+}
+
+.titre
+{
+    font-size: 3.5em; /* Ne pas mettre en pixel !!! */
+    font-family: 'Poppins', sans-serif;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+.logo
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: #272727;
+}
+
+.FooterPage
+{
+    font-size: 0.8em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn
+{
+    width: 150px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    color: #fff;
+}
+
+.textbtn
+{
+    color: #fff;
+}
